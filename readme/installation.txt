@@ -1,0 +1,27 @@
+Hello! Thank you for downloading the script, I hope you like it.
+
+Step 1 - Get the code block from the tables below depending on which one you are using, qb or esx.
+
+Item list for QB 
+    ['giftbox'] = {["name"] = "giftbox", ["label"] = "Christmas Box", ["weight"] = 100, ["type"] = "item", ["image"] = "giftbox.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = nil},
+
+Item list for ESX
+	["giftbox"] = {
+		label = "Christmas Box",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+Step 2 - Put the giftbox picture in this folder into the section where pictures are stored in your inventory.
+
+Step 3 - After completing the above steps, start the script with the "ensure kvl-christmas" code via server.cfg and restart your server.
+
+Step 4 - Enjoy it!
+
+---------------
+KVL Store Links
+---------------
+KVL Store Tebex Address : https://kavl.tebex.io/
+KVL Store Discord Address : https://discord.gg/m2TGa5gWKk
+KVL Store Youtube Address : https://www.youtube.com/@kvl4351/
